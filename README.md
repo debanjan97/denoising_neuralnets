@@ -8,3 +8,7 @@ Project is implemented in Tensorflow.
 CAE stands for Convolutional Auto-Encoder.   
 Type of Noise Introduced: Salt and Pepper  
 Intensity of the noise can be changed within the code.  
+
+### denoisingCAE_gaussian.ipynb  
+Type of Noise: Gaussian  
+Intensity can be changed within the code  
